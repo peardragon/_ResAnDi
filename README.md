@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and Jupyter Notebooks for reproducing the figures in the paper titled "[Paper Name]".
+This repository contains the code and Jupyter Notebooks for reproducing the figures in the paper titled "Exploring Characteristic Substructure in Anomalous Diffusion with Deep Learning".
 
 [//]: # (## Paper Details)
 
